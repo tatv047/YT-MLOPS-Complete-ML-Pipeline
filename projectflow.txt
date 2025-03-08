@@ -1,0 +1,5 @@
+Building pipeline:
+1. Creata githib repo and clone it in local (Add experiments).
+2. Add src folder along with all components (run them individually)
+3. Add data,models,reports, directories .gitignore file
+4. Now got add, commit,push
