@@ -15,7 +15,9 @@ Setting up the DVC pipeline with parameters
 10. Do "dvc repo" again to test the pipeline along with the params
 11. Now git add,commit,push
 
-
+Experiments with DVC:
+12. pip install dvclive
+13. Add the dvcive 
 ---------------------------------------------
 ---------------------------------------------
 
